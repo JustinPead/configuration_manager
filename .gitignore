@@ -1,0 +1,4 @@
+#Exclude
+build/*
+configuration_manager.eff-info/*
+dist/*

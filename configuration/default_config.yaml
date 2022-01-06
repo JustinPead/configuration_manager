@@ -1,0 +1,9 @@
+version: 0.04
+lift: true
+send_email: false
+port_by_name: USB Serial
+num_devices: 3
+bytes_received: 148
+sleep_period_seconds: 900
+data_directory: ~/data/
+desiccation_filename: desiccation_data.txt
