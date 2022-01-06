@@ -1,4 +1,4 @@
 #Exclude
 build/*
-configuration_manager.eff-info/*
+configuration_manager.egg-info/*
 dist/*
